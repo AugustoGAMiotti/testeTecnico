@@ -1,0 +1,12 @@
+3 - Soma = 77.
+
+4a) 11
+b) 128
+c) 49
+d) 11
+e) 23
+
+5)
+Ligar o Interruptor A por alguns minutos e depois desligue-o.
+Ligar o Interruptor B e ir até as salas das lâmpadas.
+Verifique qual lâmpada que está quente (Interruptor A), qual está acesa (Interruptor B) e qual está apagada e fria (Interruptor C).
